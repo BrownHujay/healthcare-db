@@ -1,0 +1,7 @@
+{
+    "watch": ["main", "routes", "models"],
+    "ext": "js,json",
+    "ignore": ["node_modules"],
+    "exec": "node main/app.js"
+  }
+  
